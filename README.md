@@ -12,11 +12,11 @@
 git clone https://github.com/0xDee-Coder/uwakquack.git
 cd uwakquack
 ```
-2. Install dependencies
 - set the ref_code in the .env file
 ```bash
 nano .env
 ```
+2. Install dependencies
 ```bash
 npm install
 ```
